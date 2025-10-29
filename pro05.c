@@ -1,3 +1,4 @@
+//Write a Program to implement on a data set of characters the three CRC polynomials – CRC 12, CRC 16 and CRC CCIP.
 #include <stdio.h>
 #include <string.h>
 
